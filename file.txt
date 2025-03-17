@@ -2,4 +2,8 @@ oussama ligne
 
 otmane test
 
+<<<<<<< HEAD
 loloalaj
+=======
+test conf
+>>>>>>> aca6aaa643cc36e82bc2ba1cadbc96251edbc7f3
